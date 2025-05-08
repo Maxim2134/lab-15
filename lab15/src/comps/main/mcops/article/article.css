@@ -1,0 +1,5 @@
+.article{
+    grid-area: aside;
+    background-color: blue;
+    width: 20vw;
+}
